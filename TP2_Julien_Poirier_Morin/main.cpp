@@ -1,8 +1,8 @@
 //Auteur: Julien Poirier Morin
-//Date de création:
-//Date de modification: 
+//Date de création:24/02/2024
+//Date de modification: 26/02/2024
 /*Description:
-
+Ce programme teste les classes Heure, Date et DateH. Il teste les constructeurs, les méthodes d'affichage et les opérateurs de comparaison >.
 */
 
 #include <iostream>

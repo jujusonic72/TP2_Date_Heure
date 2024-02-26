@@ -1,2 +1,15 @@
-﻿  main.cpp
-  TP2_Julien_Poirier_Morin.vcxproj -> C:\Users\jpoir\Desktop\universite\progObj\TP2\TP2_Date_Heure\TP2_Julien_Poirier_Morin\x64\Debug\TP2_Julien_Poirier_Morin.exe
+﻿  Date.cpp
+C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\Date.cpp(15,8): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\Date.cpp(21,8): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\Date.cpp(27,39): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\Date.cpp(30,44): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\Date.cpp(33,108): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\Date.cpp(37,68): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+  DateH.cpp
+  Heure.cpp
+C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\Heure.cpp(13,8): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\Heure.cpp(19,8): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\Heure.cpp(25,8): warning C4804: '<=' : utilisation risquée du type 'bool' dans l'opération
+  main.cpp
+  Génération de code en cours...
+  TP2_Julien_Poirier_Morin.vcxproj -> C:\Users\jpoir\Universite\Prog_Obj\TP2\TP2_Julien_Poirier_Morin\x64\Debug\TP2_Julien_Poirier_Morin.exe

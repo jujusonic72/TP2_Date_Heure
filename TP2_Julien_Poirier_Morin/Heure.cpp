@@ -9,6 +9,7 @@ Heure::Heure() {
 	ss = 0;
 }
 Heure::Heure(int h, int m, int s) {
+	//si les valeurs sont correctes on les affecte sinon on affecte 0
 	if (0 <= h <= 23) {
 		hh = h;
 	}
@@ -28,6 +29,7 @@ Heure::Heure(int h, int m, int s) {
 		ss = 0;
 	}
 }
+//pour afficher l'heure en format hh:mm:ss
 void Heure::affiche() {
 	cout << setw(2) << setfill('0') << hh << ":";
 	cout << setw(2) << setfill('0') << mm << ":";

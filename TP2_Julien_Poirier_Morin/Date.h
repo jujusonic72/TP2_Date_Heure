@@ -4,9 +4,12 @@ class Date
 protected:
 	int jour, mois, annee;
 public:
+	//constructeur par defaut
 	Date();
+	//constructeur parametre
 	Date(int j, int m, int a);
 	void afficher();
+	//operateur de comparaison > pour comparer deux dates
 	bool operator > (Date t) {
 		if (this->annee > t.annee) {
 			return true;

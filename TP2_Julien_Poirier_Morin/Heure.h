@@ -4,10 +4,12 @@ class Heure
 protected:
 	int hh, mm, ss;
 public:
+	//constructeur par defaut
 	Heure();
+	//constructeur parametre
 	Heure(int h, int m, int s);
 	void affiche();
-
+	//operateur de comparaison > pour comparer deux heures
 	bool operator > (Heure t) {
 		if (this->hh > t.hh) {
 			return true;
